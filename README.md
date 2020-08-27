@@ -398,3 +398,7 @@ Table of Contents
 * [Certified Red Team Professional](https://www.pentesteracademy.com/activedirectorylab)
 * [Certified Red Teaming Expert](https://www.pentesteracademy.com/redteamlab)
 * [PentesterAcademy Certified Enterprise Security Specialist (PACES)](https://www.pentesteracademy.com/gcb)
+
+# Other Awesome Lists & sources
+* [Awesome Windows Red Team] https://github.com/marcosValle/awesome-windows-red-team
+* [Red Team Toolkit] https://github.com/infosecn1nja/Red-Teaming-Toolkit
