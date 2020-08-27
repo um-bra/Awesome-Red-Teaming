@@ -402,3 +402,4 @@ Table of Contents
 # Other Awesome Lists & sources
 * [Awesome Windows Red Team](https://github.com/marcosValle/awesome-windows-red-team)
 * [Red Team Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
+* [Modern Red Teaming](https://techbeacon.com/security/modern-red-teaming-21-resources-your-security-team)
